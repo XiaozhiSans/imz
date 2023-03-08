@@ -1,2 +1,2 @@
-# IMZ
-A Minecraft Bedrock Edition Addon.
+# IMZ Website
+IMZ Website
