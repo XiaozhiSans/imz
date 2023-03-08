@@ -7,4 +7,4 @@ auto_fix.mcfunction--Auto Fix Pose function core file.
 
 You can modify and use these on your own pack, but u must mark "based on IMZ".
 
-中文: README-cn.md
+<a href=https://github.com/XiaozhiSans/IMZ/blob/main/README-cn.md>中文</a>
