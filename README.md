@@ -1,6 +1,6 @@
 # Language
 - en [English](README.md)
-- zh [简体中文](other/README-zh.md)
+- zh [简体中文](README-zh.md)
 
 ---
 # IMZ
