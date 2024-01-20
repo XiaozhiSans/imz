@@ -1,0 +1,20 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "IMZ2 Open Source Project",
+		"description": "-Version-\nv2.0.0(20240120-IMZ2OSP)§l\n\n-About-\nAuthor: §sXiaozhiSans",
+		"uuid": "268fbb06-be6a-4776-a775-75951682a0ad",
+		"version": [2, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["XiaozhiSans"],
+		"url": "https://space.bilibili.com/1988506301"
+	},
+	"modules": [{
+		"name": "main",
+		"type": "data",
+		"uuid": "28d74040-1363-4f9c-a7d5-fbcb164d01ea",
+		"version": [2, 0, 0]
+	}]
+}
