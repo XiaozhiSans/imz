@@ -1,0 +1,1 @@
+playanimation @a animation.player.move.arms default 1

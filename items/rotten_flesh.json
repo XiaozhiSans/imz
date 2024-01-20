@@ -1,0 +1,24 @@
+{
+ ##by 训练师杉斯
+ "format_version": "1.10",
+ "minecraft:item": {
+  "components": {
+   "minecraft:food": {
+    "effects": [
+     {
+      "amplifier": 1,
+      "chance": 0.8,
+      "duration": 30,
+      "name": "saturation"
+     }
+    ],
+    "nutrition": 4,
+    "saturation_modifier": "poor"
+   },
+   "minecraft:use_duration": 32
+  },
+  "description": {
+   "identifier": "minecraft:rotten_flesh"
+  }
+ }
+}
