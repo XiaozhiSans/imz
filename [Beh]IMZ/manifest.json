@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "§gIMZ is an addon for Minecraft Bedrock Edition, it can make player into zombie.§e\n\n-About-\n\tcreate by: XiaozhiSans",
+		"name": "IMZ",
+		"uuid": "268fbb06-be6a-4776-a775-75951682a0ad",
+		"version": [1, 4, 3],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [{
+		"type": "data",
+		"uuid": "28d74040-1363-4f9c-a7d5-fbcb164d01ea",
+		"version": [1, 4, 3]
+	}]
+}

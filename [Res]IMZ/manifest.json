@@ -1,0 +1,15 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "imz fix pose pack",
+		"name": "IMZ",
+		"uuid": "4f8528f0-d4a1-4c4e-9b63-06b7671faf43",
+		"version": [1, 1, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [{
+		"type": "resources",
+		"uuid": "faba8157-3cf0-4ca6-8313-26a93a3bd8fa",
+		"version": [1, 1, 0]
+	}]
+}
