@@ -1,3 +1,3 @@
 # IMZ Website
-IMZ Website
-废弃，重定向到 [IMZ中文官网](https://github.com/XiaozhiSans/imz-zh)
+- [IMZ中文官网](https://xiaozhisans.github.io/imz/)
+- [IMZ Website](https://xiaozhisans.github.io/imz/imz-en.html)
